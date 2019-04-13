@@ -1,14 +1,16 @@
 CREATE TABLE User (
     username CHAR(50) PRIMARY KEY, 
-    userPassword CHAR(50) NOT NULL
+    userPassword CHAR(50) NOT NULL, 
+    userEmail CHAR(50), 
+    userDOB DATE
 )
 
 CREATE TABLE Enroll (
     username CHAR(50), 
     courseNum CHAR(7),
     PRIMARY KEY (username, courseNum),
-    FOREIGN KEY (username) REFERENCES User ON DELETE CASCADE, 
-    FOREIGN KEY (courseNum) REFERENCES Enroll ON DELETE CASCADE
+    FOREIGN KEY (username) REFERENCES User ON DELETE CASCADE, /* We need to verify ON DELETE and ON UPDATE constraints */
+    FOREIGN KEY (courseNum) REFERENCES Enroll ON DELETE CASCADE /* We need to verify ON DELETE and ON UPDATE constraints */
 );
 
 CREATE TABLE Course {
