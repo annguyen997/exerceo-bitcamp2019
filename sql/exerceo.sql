@@ -1,9 +1,16 @@
-CREATE TABLE User (
+/* CREATE TABLE User (
     username CHAR(50) PRIMARY KEY, 
     userPassword CHAR(50) NOT NULL, 
     userEmail CHAR(50), 
     userDOB DATE
-)
+); */
+
+CREATE TABLE dbo.UserLogin (
+    username varCHAR(50) PRIMARY KEY, 
+    userPassword VARCHAR(50) NOT NULL, 
+    userEmail VARCHAR(50), 
+    userDOB DATE
+);
 
 CREATE TABLE Enroll (
     username CHAR(50), 
