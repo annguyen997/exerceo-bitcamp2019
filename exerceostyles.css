@@ -6,6 +6,7 @@
     background-color: #333;
     overflow: hidden;
     display: inline-block;
+    text-align: center;
 }
 
 #navlist a {
