@@ -4,6 +4,22 @@
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
     <title> Exerceo Demo </title>
     <link href="exerceostyles.css" rel="stylesheet" type="text/css">
+    <style>
+        .centertext{
+            margin: auto;
+            width: 20%;
+            border: 3px;
+            padding: 10px;
+            font-size: 17px;
+        }
+        .centertext1{
+            margin: auto;
+            width: 20%;
+            border: 3px;
+            padding: 10px;
+            font-size: 13px;
+        }
+    </style>
 </head>
 
 <body>
@@ -15,16 +31,23 @@
                 <a href="rewards.html"> Rewards </a> 
                 <a href="about.html"> About Us </a> 
                 <a href="login.html"> Login </a> 
+                <a href="leaderboard.html"> Leaderboard </a>
                 <!-- Add social network buttons here? -->
         </nav>
     </div>
-    <div>
+    <div class="centertext">
         <form>
+            <br><br><br><br><br>
             Username:<br>
             <input type="text" name="username"><br>
             Password:<br>
             <input type="text" name="password"><br><br>
-            <input type="submit" value="Login">
+            <input type="submit" value="Login"><br><br><br>
+        </form>
+    </div>
+    <div class="centertext1">
+        <form>
+                Don't have an account? <input type="submit" value="Sign up">
         </form>
     </div> 
 </body>
