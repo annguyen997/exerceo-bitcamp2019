@@ -5,6 +5,7 @@
 #navlist {
     background-color: #333;
     overflow: hidden;
+    display: inline-block;
 }
 
 #navlist a {
