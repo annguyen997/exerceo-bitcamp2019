@@ -37,10 +37,12 @@
 
 .our-vision {
   color: rgba(182, 49, 49, 0.514);
+  font-size: 20px;
 }
 
 .team-pictures {
   color: rgba(182, 49, 49, 0.377);
+  font-size: 20px;
 }
 .team-pictures img {
   width: 200px;
