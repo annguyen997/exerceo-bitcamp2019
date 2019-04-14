@@ -5,13 +5,14 @@
   background-color: #333;
   overflow: hidden;
   text-align: center;
+  padding: 14px 16px 25px 0px;
 }
 
 #navlist a {
-  float: left;
+  float: center;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 25px 16px 20px 50px;
   text-decoration: none;
   font-size: 17px;
 }
