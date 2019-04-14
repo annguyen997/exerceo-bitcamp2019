@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b36f8cb6-2b02-4987-9abf-a25f6a6d7be2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/codecademy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/khanacademy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lynda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/udemy.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exerceostyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/exerceostyles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leaderboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/leaderboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub-mysql.html" beforeDir="false" afterPath="$PROJECT_DIR$/sub-mysql.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub-personalfinance.html" beforeDir="false" afterPath="$PROJECT_DIR$/sub-personalfinance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub-webdev.html" beforeDir="false" afterPath="$PROJECT_DIR$/sub-webdev.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +26,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+            <state relative-caret-position="180">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/signup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -59,6 +61,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -70,6 +73,7 @@
       <list>
         <option value="$PROJECT_DIR$/leaderboard.html" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/signup.html" />
         <option value="$PROJECT_DIR$/login.html" />
       </list>
     </option>
@@ -106,6 +110,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -136,12 +141,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555174146159</updated>
       <workItem from="1555174147918" duration="10568000" />
-      <workItem from="1555220255591" duration="798000" />
+      <workItem from="1555220255591" duration="2288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11366000" />
+    <option name="totallyTimeSpent" value="12856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="23" width="1276" height="777" extended-state="6" />
@@ -181,9 +186,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/exerceostyles.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -200,10 +202,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        <state relative-caret-position="180">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>
