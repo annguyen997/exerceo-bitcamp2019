@@ -52,6 +52,6 @@
 
 .team-info {
   width: 200px;
-  padding: 16px 16px 16px 60px;
-  display: inline-block;
+  padding: 16px 16px 16px 16px;
+  float: left;
 }
