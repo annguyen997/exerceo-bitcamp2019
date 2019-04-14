@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+    <title> Login </title>
+    <link href="exerceostyles.css" rel="stylesheet" type="text/css">
+    <style>
+        .login{
+            margin: 0 auto;
+            width: 20%;
+            border: 3px;
+            padding: 50px 80px;
+            font-size: 17px;
+        }
+        .signup{
+            margin: auto;
+            width: 20%;
+            border: 3px;
+            padding: 10px;
+            font-size: 13px;
+        }
+        .pad{
+            margin: 10px 10px 10px 0px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header">
+        <nav id="navlist"> 
+                <!-- Maybe put nav bar in a separate file (in case we need to make changes?)-->
+                <a href="index.html"> Home </a>
+                <a href="courses.html"> Courses </a> 
+                <a href="rewards.html"> Rewards </a> 
+                <a href="about.html"> About Us </a> 
+                <a href="login.html"> Login </a> 
+                <a href="leaderboard.html"> Leaderboard </a>
+                <!-- Add social network buttons here? -->
+        </nav>
+    </div>
+    <br><br>
+    <div class="login">
+        <form>
+            <br><br>
+            Username:<br>
+            <input type="text" name="username" class="pad"><br>
+            Password:<br>
+            <input type="password" name="password" class="pad"><br><br>
+            <form>
+                <button formaction="courses.html">Login</button>
+            </form>
+        </form>
+    </div>
+    <div class="signup">
+        <form>
+                Don't have an account?
+            <form>
+                <button formaction="signup.html">Signup</button>
+            </form>
+        </form>
+    </div>
+
+    <div class="footer">
+        <br><br><br><br><br><br><br><br><br><br>
+            <p> Exerceo Demo <br> This is part of Bitcamp 2019 at University of Maryland, College Park </p>
+    </div>
+</body>
+
+</html>
