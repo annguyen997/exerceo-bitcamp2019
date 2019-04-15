@@ -1,0 +1,14 @@
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\bin\Debug\netcoreapp2.1\ExerceoBitcamp2019.deps.json
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\bin\Debug\netcoreapp2.1\ExerceoBitcamp2019.runtimeconfig.json
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\bin\Debug\netcoreapp2.1\ExerceoBitcamp2019.runtimeconfig.dev.json
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\bin\Debug\netcoreapp2.1\ExerceoBitcamp2019.dll
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\bin\Debug\netcoreapp2.1\ExerceoBitcamp2019.pdb
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\obj\Debug\netcoreapp2.1\ExerceoBitcamp2019.csprojAssemblyReference.cache
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\obj\Debug\netcoreapp2.1\ExerceoBitcamp2019.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\obj\Debug\netcoreapp2.1\ExerceoBitcamp2019.RazorAssemblyInfo.cache
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\obj\Debug\netcoreapp2.1\ExerceoBitcamp2019.RazorAssemblyInfo.cs
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\obj\Debug\netcoreapp2.1\ExerceoBitcamp2019.AssemblyInfoInputs.cache
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\obj\Debug\netcoreapp2.1\ExerceoBitcamp2019.AssemblyInfo.cs
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\obj\Debug\netcoreapp2.1\ExerceoBitcamp2019.RazorTargetAssemblyInfo.cache
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\obj\Debug\netcoreapp2.1\ExerceoBitcamp2019.dll
+C:\Users\famil\source\repos\ExerceoBitcamp2019\ExerceoBitcamp2019\obj\Debug\netcoreapp2.1\ExerceoBitcamp2019.pdb
