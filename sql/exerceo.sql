@@ -3,7 +3,7 @@
     userPassword CHAR(50) NOT NULL, 
     userEmail CHAR(50), 
     userDOB DATE
-); */
+);
 
 CREATE TABLE dbo.UserLogin (
     username varCHAR(50) PRIMARY KEY, 
@@ -30,4 +30,29 @@ CREATE TABLE Course {
 CREATE TABLE Score {
     username CHAR(50) PRIMARY KEY, 
     score NUMBER(12) DEFAULT 0, 
-}
+} */
+
+
+CREATE TABLE dbo.UserLogin (
+    username varCHAR(50) PRIMARY KEY, 
+    userPassword VARCHAR(50) NOT NULL, 
+    userEmail VARCHAR(50), 
+    userDOB DATE
+);
+
+CREATE TABLE dbo.Enroll (
+    username VARCHAR(50), 
+    courseNum VARCHAR(7)
+);
+
+CREATE TABLE dbo.Course (
+    courseNum VARCHAR(7) PRIMARY KEY,
+    courseName VARCHAR(50) NOT NULL,
+    courseDescription VARCHAR(150), 
+	scoreValue INT
+); 
+
+CREATE TABLE dbo.Score (
+    username CHAR(50) PRIMARY KEY, 
+    score INT DEFAULT 0, 
+);
